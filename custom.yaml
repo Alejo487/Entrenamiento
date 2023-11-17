@@ -1,0 +1,11 @@
+
+
+train: C:/Users/niyeb/Desktop/ENTRENAMIENTO/data/images/train
+val: C:/Users/niyeb/Desktop/ENTRENAMIENTO/data/images/val
+test:  
+
+# Classes
+names:
+  0: Vanessa
+  1: Alejandro
+
